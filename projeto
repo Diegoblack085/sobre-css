@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre nos</title>
+    <style>
+        .titulo{
+        color: green;
+        text-align: center;
+        }
+        .Conteudo{
+            font-size: large;
+            padding: 15px;
+            padding-inline: 200px;
+            border: 0cm;
+            
+        }
+        .fundo{
+        ins
+        }
+    </style>
+</head>
+<body class="fundo">
+    <header>
+        <h1 class="titulo">Um pouco sobre a empresa</h1>
+        </header>
+    <nav >
+        <p class="Conteudo">A Florisbela é uma empresa dedicada a levar beleza, carinho e emoção através de flores de alta qualidade. Nosso compromisso é oferecer aos clientes arranjos, buquês e flores cuidadosamente selecionadas, sempre prezando pela delicadeza, frescor e excelência em cada detalhe.
+
+Temos como diferencial a entrega rápida e eficiente, garantindo que cada pedido chegue ao destino no menor tempo possível, com segurança e perfeitas condições. Sabemos que cada flor carrega um significado especial, por isso tratamos cada entrega com responsabilidade e cuidado.
+
+Na Florisbela, nosso principal objetivo é a satisfação do cliente. Buscamos atender cada pessoa com dedicação, oferecendo produtos de qualidade, bom atendimento e confiança. Mais do que vender flores, queremos transformar momentos simples em lembranças especiais, levando amor, felicidade e beleza para cada cliente.
+    </P>
+    </nav>
+    <img class="foto" src="foto.png">
+</body>
+</html>
