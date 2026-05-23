@@ -1,1 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outra pagina</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <h1>Outra pagina</h1>
+    <a href="index.html">outra pagina</a>
+    <h2>Diego</h2>
+    <merge img src=""></merge>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Aprendendo CSS</title>
+   <!--USAMOS LINK REL"STYLESHEET HERF="CSS/ESTILO.CSS
+   PARA IMPORTAR E USAR O CSS SEPARADO VARIA DE ACORDO
+   COM O NOME DO ARQUIVO E DA PASTA"-->
+   <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<h1>Meu primeiro site com CSS</h1>
+<P class="center vermelho">orem ipsum dolor sit, amet consectetur adipisicing elit. Sit animi illo libero accusamus inventore nemo iure sunt dolores quas ut architecto rem maiores veniam iste, facilis dolorum adipisci, hic impedit.
+Fuga cumque maiores sed ipsam eligendi corrupti quod eum aspernatur deserunt alias enim assumenda culpa delectus sit dolorum iste cum aperiam, eius vel iusto praesentium repellendus numquam. Dolorem, perferendis impedit.
+Architecto, veniam sapiente deserunt enim distinctio nemo suscipit laboriosam quae consequatur molestias voluptate quia illum et ratione pariatur. Suscipit quas soluta accusantium iusto, nihil quisquam possimus voluptates ex similique necessitatibus!</P>
+<!-- # e nome dado para tag id para ser usado apenas para um elemento específico -->
 
+<P id="test">orem ipsum dolor sit, amet consectetur adipisicing elit. Sit animi illo libero accusamus inventore nemo iure sunt dolores quas ut architecto rem maiores veniam iste, facilis dolorum adipisci, hic impedit.
+Fuga cumque maiores sed ipsam eligendi corrupti quod eum aspernatur deserunt alias enim assumenda culpa delectus sit dolorum iste cum aperiam, eius vel iusto praesentium repellendus numquam. Dolorem, perferendis impedit.
+Architecto, veniam sapiente deserunt enim distinctio nemo suscipit laboriosam quae consequatur molestias voluptate quia illum et ratione pariatur. Suscipit quas soluta accusantium iusto, nihil quisquam possimus voluptates ex similique necessitatibus!</P>
+<P class="center font15 vermelho">orem ipsum dolor sit, amet consectetur adipisicing elit. Sit animi illo libero accusamus inventore nemo iure sunt dolores quas ut architecto rem maiores veniam iste, facilis dolorum adipisci, hic impedit.
+Fuga cumque maiores sed ipsam eligendi corrupti quod eum aspernatur deserunt alias enim assumenda culpa delectus sit dolorum iste cum aperiam, eius vel iusto praesentium repellendus numquam. Dolorem, perferendis impedit.
+Architecto, veniam sapiente deserunt enim distinctio nemo suscipit laboriosam quae consequatur molestias voluptate quia illum et ratione pariatur. Suscipit quas soluta accusantium iusto, nihil quisquam possimus voluptates ex similique necessitatibus!</P>
+<a href="OUTRA.HTML">Outra pagina</a>
+</body>
+</html>
+*{
+  padding: 20px;
+  text-align: center;
+}
+body{
+  background-color: #ccc;
+}
+.vermelho{
+  color: red;
+}
+.center{
+  text-align: center;
+}
+.font15{
+  font-size: 15px;
+}
+#test{
+  color: blue;
+  background-color: yellow;
+}
+h1{
+  text-align: center;
+}
