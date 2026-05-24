@@ -36,3 +36,51 @@ Na Florisbela, nosso principal objetivo é a satisfação do cliente. Buscamos a
     <img class="foto" src="foto.png">
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Site base</h1>
+    <p>Os animais fazem parte da vida no planeta de maneira essencial, trazendo equilíbrio para a natureza e encantando pessoas de todas as idades.</p>
+    <p>Além de sua diversidade impressionante, os animais também contribuem para a preservação dos ecossistemas e ajudam a manter o ciclo da vida em harmonia.</p>
+    <p>Desde os pequenos insetos até os grandes mamíferos, cada espécie possui características únicas, comportamentos fascinantes e um papel importante no meio ambiente.</p>
+    <p> Neste site, você encontrará informações curiosas, educativas e interessantes sobre diferentes espécies animais, seus habitats, alimentação, cuidados e muito mais.</p>
+    Explore o incrível mundo animal e descubra como a fauna é rica, diversa e indispensável para o nosso planeta.
+    <p>Os animais são os seres mais importantes do mundo, e cada um deles tem uma diversidade</p>
+    <h2 style="text-align: center;">Hamester em casa</h2><br><br>
+    <h3 style="text-align: center;">Familia Hamester</h3>
+    <img width="100%"    src="https://th.bing.com/th/id/R.2ab76afdbb3c892900a73399f1a5dc43?rik=ix3sAhcg3PNivg&pid=ImgRaw&r=0"><br><br>
+    <br><br>
+    <h2 style="text-align: center;">Hamester Cinza</h2>
+    <img src="https://ecoterrario.com/wp-content/uploads/2024/05/hamster-peludos-768x430.jpg"
+    width="100%"><br><br>
+
+    <h2 style="text-align: center;">Hamester Dourado</h2>
+    <img   heigth="500" width="500" img src="https://th.bing.com/th/id/R.ef246795a58b7fafa6413a18859fc569?rik=RPs9uR%2fe5nVa9Q&riu=http%3a%2f%2fwww.hamsterpedia.net%2fwp-content%2fuploads%2f2014%2f07%2fhamsters-0.jpg&ehk=F8E%2b%2bSK%2bqACXv7Xj%2bVfckKQ6yYqQAX3GDfMfoWikPic%3d&risl=&pid=ImgRaw&r=0"><br><br>
+           <iframe  target="_blank" src="https://www.youtube.com/embed/n0wT5cjC4A8?si=BrtRWojI7M2Oqjhy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+       <br><br> 
+       <select>
+        <label name="none">Qual hamester você achou mais legal?</labe>
+            
+            <option>
+                hamester cinza
+                </option>
+            
+            <option value="dourado" name="rato2" id="dourado">
+                rato dourado
+            </option>
+            
+        </select>
+
+
+
+
+
+
+</body>
+</html>
