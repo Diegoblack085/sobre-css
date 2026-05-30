@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    border-left: 20px solid rgb(114, 0, 0);
+    border-top: 20px solid rgb(0, 114, 47);
+    border-right: 20px solid rgb(8, 8, 8);
+    border-bottom: 20px solid rgb(0, 11, 112);
+}
+p{
+    color: rgba(117, 48, 48, 0.548);
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 70px;
+    margin-bottom: 60px;
+    margin: 150px 30px 150px 20px;
+}
+body{
+    background-color: white;
+   
+     
+     
+}
+.exemploback{
+    color: black;
+    background-color: gray;
+}
+.exemploback2{
+    background-size: cover;
+     background-repeat: repeat-y;
+     background-position: center;
+      height: 500px;
+      background: gray url("/img.jpg") no-repeat center;
+}
