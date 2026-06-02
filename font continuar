@@ -28,5 +28,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, voluptate. Vo
 </body>
 </html>
 p{
-    font-family
+    font-family: Arial, Helvetica, sans-serif;
+
 }
