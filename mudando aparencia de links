@@ -1,0 +1,32 @@
+
+p{
+    font-family: "Oleo Script", system-ui;
+    font-size: 20px;
+    text-align: justify;
+    font-style: oblique;
+    font-weight: 100;
+}
+h1{
+    margin: 10px;
+    font-family: "Oleo Script", system-ui;
+    padding: 50px;
+    text-align: center;
+}
+a.botao1{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    border: 5px solid rgb(38, 240, 38);
+    border-radius: 10px;
+
+}
+a.botao1:hover{
+    background-color: rgb(14, 145, 197);
+    color: white;
+    padding: 17px;
+    text-decoration: none;
+    border: 5px solid rgb(17, 24, 17);
+    border-radius: 10px;
+
+}
