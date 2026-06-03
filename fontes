@@ -1,0 +1,18 @@
+
+p{
+    font-family: "Oleo Script", system-ui;
+    font-size: 20px;
+    text-align: justify;
+    font-style: oblique;
+    font-weight: 100;
+}
+h1{
+    margin: 10px;
+    font-family: "Oleo Script", system-ui;
+    padding: 50px;
+    text-align: center;
+}
+IMPORTAR FONTES
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+</style>
