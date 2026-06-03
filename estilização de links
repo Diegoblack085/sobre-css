@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outra pagina</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>Outra pagina</h1><br><br><br><br>
+    
+    <h2>Diego</h2><br><br><br><br>
+    <a class="botao1" href="index.html">outra pagina</a><br><br><br><br>
+    <a class="botao2" href="index.html">outra pagina</a><br><br><br><br>
+    <a class="botao3" href="index.html">outra pagina</a><br><br><br><br>
+    <a class="botao4" href="index.html">outra pagina</a><br><br><br><br>
+    <a class="botao5" href="index.html">outra pagina</a><br><br><br><br>
+</body>
+</html>
+p{
+    font-family: "Oleo Script", system-ui;
+    font-size: 20px;
+    text-align: justify;
+    font-style: oblique;
+    font-weight: 100;
+}
+h1{
+    margin: 10px;
+    font-family: "Oleo Script", system-ui;
+    padding: 50px;
+    text-align: center;
+}
+a.botao1{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    border: 5px solid rgb(38, 240, 38);
+    border-radius: 10px;
+
+}
+a.botao1:hover{
+    background-color: rgb(14, 145, 197);
+    color: white;
+    padding: 17px;
+    text-decoration: none;
+    border: 5px solid rgb(17, 24, 17);
+    border-radius: 10px;
+
+}
+a.botao2{
+    
+    color: black;
+    padding: 15px;
+    text-decoration:none;
+    
+    border: 5px solid rgb(102, 88, 88);
+}
+a.botao2:hover{
+    background-color: rgb(172, 0, 129);
+    color: rgb(112, 5, 212);
+    padding: 8px;
+    text-decoration:underline;
+    border: 5px double rgb(39, 23, 23);
+}
+a.botao3{
+    color: black;
+    text-decoration: none;
+    
+}
+a.botao3:hover{
+    color: red;
+    border-bottom: 5px solid rgb(175, 0, 0);
+}
+a.botao4{
+    color: blue;
+    text-decoration: none;
+    font-size: 18px;
+}
+a.botao4:hover{
+    font-size: 26px;
+    font-weight: bold;
+}
+a.botao5{
+    cursor: pointer;
+}
